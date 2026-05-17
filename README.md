@@ -55,8 +55,4 @@ These results demonstrate that morphology is the dominant missing component in r
 ```text
 paper/          -> Manuscript PDF and LaTeX source
 figures/        -> Figures used in the paper
-notebooks/      -> Exploratory analysis notebooks
 scripts/        -> Data processing and ML analysis scripts
-models/         -> Saved machine learning models
-tables/         -> Statistical tables and outputs
-data/           -> Processed catalogues and derived products
